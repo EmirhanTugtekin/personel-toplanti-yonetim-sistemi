@@ -1,0 +1,12 @@
+C:\Users\Asusum\source\repos\PersonelDuzenleme\PersonelDuzenleme\bin\Debug\PersonelDuzenleme.exe.config
+C:\Users\Asusum\source\repos\PersonelDuzenleme\PersonelDuzenleme\bin\Debug\PersonelDuzenleme.exe
+C:\Users\Asusum\source\repos\PersonelDuzenleme\PersonelDuzenleme\bin\Debug\PersonelDuzenleme.pdb
+C:\Users\Asusum\source\repos\PersonelDuzenleme\PersonelDuzenleme\obj\Debug\PersonelDuzenleme.csprojAssemblyReference.cache
+C:\Users\Asusum\source\repos\PersonelDuzenleme\PersonelDuzenleme\obj\Debug\PersonelDuzenleme.Form1.resources
+C:\Users\Asusum\source\repos\PersonelDuzenleme\PersonelDuzenleme\obj\Debug\PersonelDuzenleme.Properties.Resources.resources
+C:\Users\Asusum\source\repos\PersonelDuzenleme\PersonelDuzenleme\obj\Debug\PersonelDuzenleme.csproj.GenerateResource.cache
+C:\Users\Asusum\source\repos\PersonelDuzenleme\PersonelDuzenleme\obj\Debug\PersonelDuzenleme.csproj.CoreCompileInputs.cache
+C:\Users\Asusum\source\repos\PersonelDuzenleme\PersonelDuzenleme\obj\Debug\PersonelDuzenleme.exe
+C:\Users\Asusum\source\repos\PersonelDuzenleme\PersonelDuzenleme\obj\Debug\PersonelDuzenleme.pdb
+C:\Users\Asusum\source\repos\PersonelDuzenleme\PersonelDuzenleme\obj\Debug\PersonelDuzenleme.Personel_Ekle.resources
+C:\Users\Asusum\source\repos\PersonelDuzenleme\PersonelDuzenleme\obj\Debug\PersonelDuzenleme.yonetici_ekle.resources
