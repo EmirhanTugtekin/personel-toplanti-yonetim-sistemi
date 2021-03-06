@@ -1,0 +1,4 @@
+Bu projeyi yazılım stajım sırasında yaptım. Proje
+yöneticilerin toplantı oluşturabilecekleri, personel
+ve yeni yöneticiler ekleyebilecekleri, var olan toplantıları
+görüntüleyebilecekleri bir yazılım.
